@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Thanh Hai (Ben)
 
-<!--
-**thbennn/thbennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student at Concordia University** and a tech enthusiast who loves to learn about new things. Currently focusing on web development and building cool projects. Connect with me on LinkedIn.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-hai-dang-884439325/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th.bennn/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhhai240206@gmail.com)
+
+---
+
+## ⚡ Skills:
+
+- **Languages:** Java, Python, JavaScript
+- **Web Dev:** HTML5, CSS3
+- **Tools:** Git, GitHub
+
+## 🎸 Interests:
+When I'm not coding, you'll probably find me playing guitar, practicing chess ♟️.
