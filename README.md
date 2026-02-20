@@ -1,6 +1,6 @@
 # Hi 👋, I'm Thanh Hai (Ben)
 
-I'm a **Software Engineering student at Concordia University** and a tech enthusiast who loves to learn about new things. Currently focusing on web development and building cool projects. Connect with me on LinkedIn.
+I'm a **Software Engineering student at Concordia University** and a tech enthusiast who loves to explore and learn about new things. Currently focusing on web development and building cool projects. Connect with me on LinkedIn.
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thbennn&show_icons=true&theme=tokyonight)
 
