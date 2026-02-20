@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering student at Concordia University** and a tech enthusiast who loves to learn about new things. Currently focusing on web development and building cool projects. Connect with me on LinkedIn.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thbennn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thbennn&show_icons=true&theme=tokyonight)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-hai-dang-884439325/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/th.bennn/)
