@@ -12,7 +12,7 @@ I'm a **Software Engineering student at Concordia University** and a tech enthus
 
 ## ⚡ Skills:
 
-- **Languages:** JavaScript, Java, Python, 
+- **Languages:** JavaScript, Java, Python
 - **Web Dev:** React, Node.js, Express, HTML5, CSS3, REST APIs 
 - **Tools:** Git, GitHub, VS Code
 
